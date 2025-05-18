@@ -49,6 +49,3 @@ files.upload()
 6. Run the code.
 
 
-Dataset Link:
-https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data?select=Training
-
